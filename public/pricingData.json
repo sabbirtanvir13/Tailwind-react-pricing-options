@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Reader",
+    "price": "$299",
+    "period": "one-time",
+    "description": "A simple start for new readers to explore your stories.",
+    "features": [
+      "1 digital book (PDF + ePub)",
+      "Welcome note from the author",
+      "Access to free bonus chapter"
+    ],
+    "buttonText": "Buy Now"
+  },
+  {
+    "id": 2,
+    "title": "Pro Collection",
+    "price": "$799",
+    "period": "monthly",
+    "description": "A complete bundle for dedicated readers who want more content.",
+    "features": [
+      "Full digital series (up to 3 books)",
+      "Exclusive illustrations & concept art",
+      "Early access to next release",
+      "Downloadable audiobook version"
+    ],
+    "buttonText": "Get This Plan"
+  },
+  {
+    "id": 3,
+    "title": "Author’s Club",
+    "price": "$1,499",
+    "period": "Year",
+    "description": "Join the private reader community and get full creative access.",
+    "features": [
+      "Unlimited access to all books & future releases",
+      "Monthly author live sessions",
+      "Access to behind-the-scenes writing process",
+      "Community group & Q&A discussions",
+      "Signed digital certificate of membership"
+    ],
+    "buttonText": "Join Now"
+  }
+]

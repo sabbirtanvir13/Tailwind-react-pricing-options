@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Sabbir Rahman",
+    "age": 22,
+    "grade": "A",
+    "email": "sabbir@example.com",
+    "subjects": {
+      "Math": 95,
+      "English": 88,
+      "Physics": 92,
+      "Chemistry": 90
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rafiq Ahmed",
+    "age": 21,
+    "grade": "B",
+    "email": "rafiq@example.com",
+    "subjects": {
+      "Math": 78,
+      "English": 82,
+      "Physics": 75,
+      "Chemistry": 80
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tania Islam",
+    "age": 23,
+    "grade": "A",
+    "email": "tania@example.com",
+    "subjects": {
+      "Math": 90,
+      "English": 94,
+      "Physics": 89,
+      "Chemistry": 92
+    }
+  },
+  {
+    "id": 4,
+    "name": "Rakib Hasan",
+    "age": 22,
+    "grade": "C",
+    "email": "rakib@example.com",
+    "subjects": {
+      "Math": 65,
+      "English": 70,
+      "Physics": 68,
+      "Chemistry": 72
+    }
+  },
+  {
+    "id": 5,
+    "name": "Fahim Khan",
+    "age": 24,
+    "grade": "B",
+    "email": "fahim@example.com",
+    "subjects": {
+      "Math": 80,
+      "English": 85,
+      "Physics": 78,
+      "Chemistry": 82
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nadia Chowdhury",
+    "age": 21,
+    "grade": "A",
+    "email": "nadia@example.com",
+    "subjects": {
+      "Math": 92,
+      "English": 90,
+      "Physics": 94,
+      "Chemistry": 91
+    }
+  },
+  {
+    "id": 7,
+    "name": "Imran Hossain",
+    "age": 23,
+    "grade": "B",
+    "email": "imran@example.com",
+    "subjects": {
+      "Math": 82,
+      "English": 79,
+      "Physics": 85,
+      "Chemistry": 80
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sabrina Akter",
+    "age": 22,
+    "grade": "A",
+    "email": "sabrina@example.com",
+    "subjects": {
+      "Math": 95,
+      "English": 93,
+      "Physics": 90,
+      "Chemistry": 94
+    }
+  },
+  {
+    "id": 9,
+    "name": "Arif Chowdhury",
+    "age": 24,
+    "grade": "C",
+    "email": "arif@example.com",
+    "subjects": {
+      "Math": 68,
+      "English": 70,
+      "Physics": 65,
+      "Chemistry": 69
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mousumi Sultana",
+    "age": 21,
+    "grade": "B",
+    "email": "mousumi@example.com",
+    "subjects": {
+      "Math": 84,
+      "English": 88,
+      "Physics": 82,
+      "Chemistry": 85
+    }
+  }
+]

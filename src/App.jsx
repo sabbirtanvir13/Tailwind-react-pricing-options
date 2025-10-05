@@ -5,7 +5,10 @@ import DaisyNav from './components/DaisyNav/DaisyNav'
 import Navbar from './components/Navbar/Navbar'
 import PricingOptions from './components/pricingOptions/PricingOptions'
 import ResultChart from './components/ResultChart/ResultChart'
-const pricingpremise = fetch('pricingData.json').then(res => res.json())
+import axios from 'axios'
+import MarksChart from './components/marksChart/MarksChart'
+const pricingpremise = fetch('pricingData.json').then(res => res.json());
+const marksPremise = axios.get('marksData.json');
 function App() {
 
 
@@ -20,6 +23,10 @@ function App() {
         <Suspense fallback={<span className="loading loading-dots loading-xl content-center"></span>
         }>
           <PricingOptions pricingpremise={pricingpremise}></PricingOptions>
+        </Suspense>
+
+        <Suspense fallback={<span className="loading loading-dots loading-xl content-center"></span>}>
+          <MarksChart marksPremise={marksPremise}></MarksChart>
         </Suspense>
         <ResultChart></ResultChart>
       </main>
